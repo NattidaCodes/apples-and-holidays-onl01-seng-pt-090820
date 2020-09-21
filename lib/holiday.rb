@@ -47,7 +47,7 @@ end
 def add_new_holiday_with_supplies(holiday_hash, season, holiday_name, supply_array)
   # code here
   # remember to return the updated hash
-## add a key to a hash: hash = {key: "apple"} / hash[:key5] = "lenny" 
+## add a key to a hash: hash = {key: "apple"} / hash[:key5] = "lenny"
 
 ## adds key of new holidy to season
 ## adds supplies for new holiday
